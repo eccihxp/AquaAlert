@@ -126,10 +126,10 @@ a{
 
 #product1Image{
     position:absolute;
-    top:19%;
+    top:10%;
     left:40%;
     width:60%;
-    z-index:-999;
+    z-index:-1000;
 }
 
 .product1Content{
